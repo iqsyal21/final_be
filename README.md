@@ -449,7 +449,7 @@ Database connected
 * **Data Body**  
 ```
 {
-  
+  comment: string
 }
 ```
 * **Success Response:**  
